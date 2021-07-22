@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aggam Rahamim.
-- 👀 I’m interested in Linux, CS, and programing.
-- 🐧 I use Arch BTW.
+- 👀 I’m interested in CS and programing.
 - 📫 How to reach me:
 
   website: https://aggam.xyz
